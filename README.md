@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabjagRT
-- 👀 I’m interested in NFS Series
+- 👀 I’m interested in NFS Series, Dead by Daylight, Cyberpunk 2077
 - 🌱 I’m currently learning C#, HTML, CSS
 - 💞️ I’m looking to collaborate with DragonTail
 - 📫 How to reach me: CHUC
